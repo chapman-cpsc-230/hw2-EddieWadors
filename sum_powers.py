@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Feb 23 12:55:21 2016
-File: Interest_rate.py
+File: sum_powers.py
 
 Copyright (c) 2016 Eddie Wadors
 
